@@ -18,3 +18,15 @@
 #git push origin --delete feature/login
 #git tag v1.0
 #git push --tags 
+#--------------------------
+#git config --global user.name ""
+#git config --global user.email ""
+#git clone <url>
+#cd repository name
+#git checkout main
+#git pull origin main
+#git checkout -b feature-subtract
+#make change in the code
+#git add filename
+#git commit -m "hska"
+#git push -u origin feature-subtract
